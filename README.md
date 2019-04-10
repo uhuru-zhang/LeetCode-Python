@@ -23,9 +23,12 @@
 * 两个字符串的删除操作  
   * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/delete-operation-for-two-strings/main.py)
   * [题目地址](https://leetcode-cn.com/problems/delete-operation-for-two-strings/description/)
-* 二叉树的锯齿形层次遍历  
-  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/binary-tree-zigzag-level-order-traversal/main.py)
-  * [题目地址](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+* 加油站
+  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/gas-station/main.py)
+  * [题目地址](https://leetcode-cn.com/problems/gas-station/description/)
+* 判断子序列 
+  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/is-subsequence/main.py)
+  * [题目地址](https://leetcode-cn.com/problems/is-subsequence/description/)
 * 二叉树的锯齿形层次遍历  
   * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/binary-tree-zigzag-level-order-traversal/main.py)
   * [题目地址](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/)
