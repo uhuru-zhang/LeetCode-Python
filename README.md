@@ -32,9 +32,9 @@
 * 匹配子序列的单词数  
   * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/number-of-matching-subsequences/main.py)
   * [题目地址](https://leetcode-cn.com/problems/number-of-matching-subsequences/description/)
-* 二叉树的锯齿形层次遍历  
-  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/binary-tree-zigzag-level-order-traversal/main.py)
-  * [题目地址](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+* 摆动序列
+  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/wiggle-subsequence/main.py)
+  * [题目地址](https://leetcode-cn.com/problems/wiggle-subsequence/description/)
 * 二叉树的锯齿形层次遍历  
   * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/binary-tree-zigzag-level-order-traversal/main.py)
   * [题目地址](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/)
