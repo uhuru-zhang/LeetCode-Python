@@ -44,3 +44,6 @@
 * 买卖股票的最佳时机含手续费  
   * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/best-time-to-buy-and-sell-stock-with-transaction-fee/main.py)
   * [题目地址](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
+* 根据身高重建队列  
+  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/queue-reconstruction-by-height/main.py)
+  * [题目地址](https://leetcode-cn.com/problems/queue-reconstruction-by-height/description/)
