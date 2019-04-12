@@ -35,6 +35,12 @@
 * 摆动序列
   * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/wiggle-subsequence/main.py)
   * [题目地址](https://leetcode-cn.com/problems/wiggle-subsequence/description/)
-* 二叉树的锯齿形层次遍历  
-  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/binary-tree-zigzag-level-order-traversal/main.py)
-  * [题目地址](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+* 单调递增的数字  
+  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/monotone-increasing-digits/main.py)
+  * [题目地址](https://leetcode-cn.com/problems/monotone-increasing-digits/description/)
+* 移掉K位数字  
+  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/remove-k-digits/main.py)
+  * [题目地址](https://leetcode-cn.com/problems/remove-k-digits/description/)
+* 买卖股票的最佳时机含手续费  
+  * [代码地址](https://github.com/zhangsiqi951016/LeetCode-Python/blob/master/best-time-to-buy-and-sell-stock-with-transaction-fee/main.py)
+  * [题目地址](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
