@@ -1,6 +1,8 @@
-import datetime
 import random
-import time
+
+"""
+修复随机快排在 重复数字过多的情况下 时间复杂度 退化为 O(n^2) 的问题
+"""
 
 
 def quick_sort(nums, begin, end):
