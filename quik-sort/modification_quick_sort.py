@@ -13,12 +13,12 @@ def quick_sort(nums, begin, end):
 
 
 def rand_partition(nums: [int], begin: int, end: int) -> (int, int):
-    left = random.randint(begin, end)
-    nums[left], nums[end] = nums[end], nums[left]
+    # left = random.randint(begin, end)
+    # nums[left], nums[end] = nums[end], nums[left]
 
-    partition_num = nums[end]
+    partition_num = 1
     left, length = begin - 1, 0
-    for j in range(begin, end):
+    for j in range(begin, end + 1):
         if nums[j] < partition_num:
             left += 1
 
@@ -30,6 +30,11 @@ def rand_partition(nums: [int], begin: int, end: int) -> (int, int):
             length += 1
             nums[left + length], nums[j] = nums[j], nums[left + length]
 
-    nums[left + 1 + length], nums[end] = nums[end], nums[left + 1 + length]
+    # nums[left + 1 + length], nums[end] = nums[end], nums[left + 1 + length]
+    #
+    # return left + 1, left + 1 + length
+if __name__ == '__main__':
+    nums = [2, 0, 2, 1, 1, 0]
+    rand_partition(nums, 0, len(nums) - 1)
 
-    return left + 1, left + 1 + length
+    print(nums)

@@ -8,6 +8,8 @@
 #         return self._can_jump(0)
 #
 #     def _can_jump(self, i):
+#         if self.nums[i] == 0:
+#             return False
 #         if len(self.nums) <= i + 1 or self.nums[i] >= len(self.nums) - 1 - i:
 #             return True
 #
