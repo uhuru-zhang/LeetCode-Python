@@ -15,6 +15,7 @@ class Solution:
         pre.next = None
         return self.mergeTwoLists(*map(self.sortList, (head, slow)))
 
+    # 采用归并排序
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         if l1 and l2:
             if l1.val > l2.val:
