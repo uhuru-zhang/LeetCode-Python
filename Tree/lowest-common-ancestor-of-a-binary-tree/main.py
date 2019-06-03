@@ -44,12 +44,16 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
+        # 如果当前节点 为 要寻找的节点 那么该节点就被返回 在递归的过程中证明结点在此存在
+        # 如果 返回为 None 证明不存在该子树中
         if root == p or root == q or root is None:
             return root
 
         left = self.lowestCommonAncestor(root.left, p, q)
         right = self.lowestCommonAncestor(root.right, p, q)
 
+        # 如果二者存在同一侧证明二者 还可以吧公共节点降到更低
+        # 如果不在同一侧 证明已经达到二者的 最低公共节点
         if left is not None and right is not None:
             return root
         elif left is None and right is not None:
